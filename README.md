@@ -34,11 +34,6 @@ Everything should be like this and no more emulators should be running concurren
 14. BE CAREFUL to always copy the .xls file from the RokTracker folder when it is created, because in the next capture, there is a chance to overwrite.
 15. V2.0 New Added Feature. With \ button you can terminate the scan, saving current progress to .xls file. It will scan the current scanning governor and it won't continue to the next. Appropriate messages will appear in CMD.
 
-# Contact and Support
-Any bugs that you may find or any suggestions you may have, please feel free to contact me in my discord: nikos#4469\
-If you like what i created, you can always support me.\
-https://www.paypal.com/donate/?hosted_button_id=55G95MNYPVX72
-
 # Usage
 Options Screen. Here you can select the amount of players you want to scan and your kingdom. \
 Added option in v2.0 to resume Scan. The results will be saved in new file. You can merge manually if you wish.\
